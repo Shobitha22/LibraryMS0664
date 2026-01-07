@@ -1,2 +1,5 @@
 print("LMS")
-print("Library Management System")
+
+print("Student Registration Module")
+print("Students daily updates and records")
+
