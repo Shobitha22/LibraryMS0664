@@ -1,5 +1,6 @@
 print("LMS")
 
 print("Student Registration Module")
-print("Students daily updates and records")
 
+print("Login Feature")
+print("Student logged in successfully")
