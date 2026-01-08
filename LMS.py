@@ -1,4 +1,5 @@
 print("LMS")
+print("LMS - MASTER")
 
 print("Student Registration Module")
 
