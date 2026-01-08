@@ -1,5 +1,6 @@
 print("LMS")
-print("LMS - MASTER")
+
+print("LMS - MERGED")
 
 print("Student Registration Module")
 
